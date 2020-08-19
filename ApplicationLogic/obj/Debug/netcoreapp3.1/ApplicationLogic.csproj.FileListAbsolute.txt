@@ -1,0 +1,17 @@
+C:\Users\simon\source\repos\ApplicationLogic\bin\Debug\netcoreapp3.1\ApplicationLogic.deps.json
+C:\Users\simon\source\repos\ApplicationLogic\bin\Debug\netcoreapp3.1\ApplicationLogic.dll
+C:\Users\simon\source\repos\ApplicationLogic\obj\Debug\netcoreapp3.1\ApplicationLogic.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\ApplicationLogic\obj\Debug\netcoreapp3.1\ApplicationLogic.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\ApplicationLogic\obj\Debug\netcoreapp3.1\ApplicationLogic.AssemblyInfo.cs
+C:\Users\simon\source\repos\ApplicationLogic\bin\Debug\netcoreapp3.1\ApplicationLogic.pdb
+C:\Users\simon\source\repos\ApplicationLogic\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\simon\source\repos\ApplicationLogic\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\simon\source\repos\ApplicationLogic\obj\Debug\netcoreapp3.1\ApplicationLogic.csproj.CopyComplete
+C:\Users\simon\source\repos\ApplicationLogic\obj\Debug\netcoreapp3.1\ApplicationLogic.dll
+C:\Users\simon\source\repos\ApplicationLogic\obj\Debug\netcoreapp3.1\ApplicationLogic.pdb
+C:\Users\simon\source\repos\ApplicationLogic\bin\Debug\netcoreapp3.1\ApplicationLogic.runtimeconfig.json
+C:\Users\simon\source\repos\ApplicationLogic\bin\Debug\netcoreapp3.1\ApplicationLogic.runtimeconfig.dev.json
+C:\Users\simon\source\repos\ApplicationLogic\obj\Debug\netcoreapp3.1\ApplicationLogic.genruntimeconfig.cache
+C:\Users\simon\source\repos\ApplicationLogic\obj\Debug\netcoreapp3.1\ApplicationLogic.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\ApplicationLogic\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\simon\source\repos\ApplicationLogic\bin\Debug\netcoreapp3.1\Core.pdb

@@ -1,0 +1,15 @@
+C:\Users\simon\source\repos\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\simon\source\repos\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\simon\source\repos\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\simon\source\repos\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\simon\source\repos\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\simon\source\repos\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\simon\source\repos\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\simon\source\repos\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\simon\source\repos\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\simon\source\repos\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Data\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\simon\source\repos\Data\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\simon\source\repos\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
